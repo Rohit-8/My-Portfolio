@@ -48,10 +48,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        My expertise are in Node.js, React.js, C++, and competitive programming, combined with my problem-solving skills and dedication to continuous learning.
-        I am a final-year undergraduate student at the Institute of Engineering and Technology, Lucknow, majoring in Computer Science and Engineering.
-        As a Web developer and Competitive Programmer, I enjoy investigating and experimenting with algorithms and developing websites. 
-        On Codeforces and Leetcode, I actively participate in a coding competition. I'm ready to launch my career with a company that will expose me to many cultures so I can expand my knowledge and abilities.
+        I am a driven and adaptable individual with expertise in Node.js, React.js, C++, Java, Spring Boot, and competitive programming. As a Computer Science and Engineering undergraduate from the esteemed Institute of Engineering and Technology, Lucknow, I possess a strong foundation in my field.
+        Web development is my passion, and I take pleasure in crafting seamless and innovative websites. Alongside, I actively participate in coding competitions on platforms like Codeforces and Leetcode, constantly refining my problem-solving abilities.
+        In pursuit of personal growth, I aspire to join a culturally diverse company that fosters continuous learning. I am eager to contribute my skills and enthusiasm to a team that values innovation and collaboration, as we shape the future of technology together. Let's create meaningful impact and drive success in the ever-evolving world of tech.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
