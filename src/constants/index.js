@@ -120,16 +120,16 @@ import {
   
   const experiences = [
 	{
-	  title: "TechOps Intern",
+	  title: "SDE Intern",
 	  company_name: "HealthEdge, Pune",
 	  icon: healthedge,
 	  iconBg: "#fff",
 	  date: "Feb 2023 - Present",
 	  points: [
-		"Collaborated with Infra team to manage Server and application services..",
-		"Managed system server along with Azure cloud infrastructure using Windows Server 2019.",
-		"Learned about RedHat System Administration, shell scripting and troubleshooting to manage application.",
-		"Tech Used : Linux | RedHat System Administration | Windows Server 2019 | Java | Shell Scripting .",
+		"Proficiently developed backend applications using Spring Boot framework.",
+		"Utilized Spring Boot to create RESTful APIs for seamless communication between the frontend and backend.",
+		"Collaborated with the frontend team to ensure smooth api integration using ReactJs.",
+		"Actively participated in code reviews, bug fixes, and optimizations to maintain high-quality applications.",
 	  ],
 	},
 	{
@@ -139,8 +139,8 @@ import {
 	  iconBg: "#E6DEDD",
 	  date: "Sept 2022 - Nov 2022",
 	  points: [
-		"Contributed in the team to build web application (Buylend) to buy, sell and rent products.",
-		"Engineered APIs for adding organizations and categories, along with incorporating user authentication and authorization.",
+		"Contributed in the team to build a MERN application to buy, sell and rent products.",
+		"Engineered APIs using NodeJs for adding organizations and categories, along with incorporating user authentication and authorization.",
 		"Added a feature to filter the dashboard content according to user’s preferences.",
 		"Solved multiple design and backend bugs.",
 	  ],
@@ -152,8 +152,9 @@ import {
 	  iconBg: "#fff",
 	  date: "Nov 2022 - Jan 2023",
 	  points: [
-		"Created new problems on Data Structures and algorithms that iMocha uses for its library and Hiring Challenges of various companies like Capgemini, Ericson, etc.",
-		"Developed many programming questions on variety of topics of DSA with various degrees of complexity."
+		"Designed and curated challenging Data Structures and Algorithms problems for iMocha's library and Hiring Challenges for prestigious companies including Capgemini and Ericsson.",
+		"Developed a diverse range of programming questions covering various DSA topics with varying levels of complexity to assess candidates' skills effectively.",
+		"Contributed to enhancing the technical evaluation process by creating high-quality problem sets for technical assessments."
 	],
 	},
 	
